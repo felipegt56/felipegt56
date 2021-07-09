@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/felipegt56">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=felipegt56&show_icons=true&theme=dracula"/>
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=felipegt56&hide=c&layout=compact&theme=dracula" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=felipegt56&show_icons=true&theme=dark"/>
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=felipegt56&hide=c&layout=compact&theme=dark" />
 </div>
+  
 <div><br>
   <img src="/imagem.gif" align="right" height="150" width="200"/>
  </div>
